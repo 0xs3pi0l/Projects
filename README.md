@@ -1,2 +1,2 @@
-# Cybersceruity projects
+# Cybersecurity projects
 Collection of cybersecurity related projects 
