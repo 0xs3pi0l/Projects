@@ -1,1 +1,1 @@
-Collection of simple python tools 
+Collection of cybersecurity related projects 
